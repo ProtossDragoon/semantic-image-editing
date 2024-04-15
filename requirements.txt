@@ -4,5 +4,5 @@ accelerate>=0.11.0
 torch>=1.4
 torchvision
 transformers>=4.21.0
-jax<0.4.19
-jaxlib<0.4.19
+jax==0.4.19
+jaxlib==0.4.19
