@@ -5,3 +5,4 @@ torch>=1.4
 torchvision
 transformers>=4.21.0
 jax<0.4.16
+jaxlib<0.4.16
